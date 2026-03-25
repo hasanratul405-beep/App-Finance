@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App palette matching Finance Dashboard HTML tool -->
+    <color name="navy">#0A0A0F</color>
+    <color name="dark">#111118</color>
+    <color name="mid">#18181F</color>
+    <color name="surface">#202028</color>
+    <color name="border">#1A1A24</color>
+    <color name="text1">#F0F0F8</color>
+    <color name="text2">#9090A8</color>
+    <color name="text3">#50505F</color>
+    <color name="blue">#3B6EF0</color>
+    <color name="blue_dim">#1E3A80</color>
+    <color name="green">#34C97D</color>
+    <color name="green_dim">#0D3320</color>
+    <color name="amber">#F0A030</color>
+    <color name="amber_dim">#3D2A08</color>
+    <color name="red">#F05050</color>
+    <color name="red_dim">#3D1010</color>
+    <color name="teal">#00C8C8</color>
+    <color name="purple_glow">#7B4FD0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>

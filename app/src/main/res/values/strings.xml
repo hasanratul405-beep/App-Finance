@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Finance Dashboard</string>
+    <string name="sms_permission_title">SMS Permission Required</string>
+    <string name="sms_permission_msg">Finance Dashboard needs SMS access to automatically detect bank transactions and mark your accounts. Without this, you will need to update manually.</string>
+    <string name="grant">Grant Permission</string>
+    <string name="skip">Skip</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+    <string name="skip_later">Skip for later</string>
+    <string name="swipe_hint">Swipe right to accept  •  Swipe left to reject</string>
+    <string name="pending_label">TRANSACTION DETECTED</string>
+    <string name="deposits_pending">%d transaction(s) pending</string>
+    <string name="credit_label">CREDIT RECEIVED</string>
+    <string name="debit_label">DEBIT SENT</string>
+    <string name="transfer_label">TRANSFER</string>
+    <string name="unknown_label">TRANSACTION</string>
+    <string name="view_details">View SMS details</string>
+    <string name="no_match">No matching account found.\nGo to Settings → Accounts and add\nlast digits to enable auto-detection.</string>
+    <string name="matched_to">Matched to account</string>
+</resources>
